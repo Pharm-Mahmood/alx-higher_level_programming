@@ -1,1 +1,3 @@
-ALX System Engineering Devops. Shell Navigation
+#!/bin/bash
+This repository is meant to introduce me to shell navigation.
+
