@@ -1,3 +1,2 @@
-#!/bin/bash
-This repository is meant to introduce me to shell navigation.
-
+File 0-hello_world prints Hello_world
+File 1-confused_smiley displays a confused smiley
